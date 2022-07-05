@@ -6,20 +6,22 @@ This is a useful application to every human who keeps record of his/her systolic
 ## Features
 ***
 
-*User can keep track of his/her systolic, diastolic as well as heart rate easily.
-*Each record is absolutely editable.
-*If required, user can delete a record at any time.
-*Records are kept in sorted order by date and time.
+-[x]User can keep track of his/her systolic, diastolic as well as heart rate easily.
+-[x]Each record is absolutely editable.
+-[x]If required, user can delete a record at any time.
+-[x]Records are kept in sorted order by date and time.
 
 ## Record Contains
 ***
 
-*Date of measurement
-*Time of measurement
-*Systolic pressure in mm Hg
-*Diastolic pressure in mm Hg
-*Heart rate in beats per minute
-*Comment
+- Date of measurement
+- Time of measurement
+- Systolic pressure in mm Hg
+- Diastolic pressure in mm Hg
+- Heart rate in beats per minute
+- Comment
+
+<hr>
 
 ## License
 ***
