@@ -8,10 +8,10 @@ This is a useful application to every human who keeps record of his/her systolic
 ## Features
 ***
 
--[x]User can keep track of his/her systolic, diastolic as well as heart rate easily.
--[x]Each record is absolutely editable.
--[x]If required, user can delete a record at any time.
--[x]Records are kept in sorted order by date and time.
+- [x] User can keep track of his/her systolic, diastolic as well as heart rate easily.
+- [x] Each record is absolutely editable.
+- [x] If required, user can delete a record at any time.
+- [x] Records are kept in sorted order by date and time.
 
 ## Record Contains
 ***
